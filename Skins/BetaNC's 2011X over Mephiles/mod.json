@@ -1,0 +1,19 @@
+{
+	"Metadata":
+	{
+		"Name": "BetaNC's 2011X over Mephiles",
+		"Author": "BetaNCourses",
+		"Description": "My take on 'sonic.exe over mephiles' thingy, now with 2011X",
+		"ModVersion": "1.0"
+	},
+	"OtherMods":
+	{
+		"Mephiles' Hunt":
+		{
+			"DisplayName": "Mephiles' Hunt",
+			"IsRequired": "1",
+			"Priority": "High"
+		}
+	}
+}
+

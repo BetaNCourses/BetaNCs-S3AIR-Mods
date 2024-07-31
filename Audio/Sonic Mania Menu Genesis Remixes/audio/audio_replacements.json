@@ -1,0 +1,8 @@
+{
+
+	"2F": { "File": "dataselect.ogg", "Type": "Music", "LoopStart": "65200", "Name": "Confort Zone (Sega Genesis Remix)" },
+	"2D": { "File": "competition.ogg", "Type": "Music", "LoopStart": "22971", "Name": "Head 2 Head (Sega Genesis Remix)" },
+	"cm_results": { "File": "competitionresults.ogg", "Type": "Music", "LoopStart": "34175", "Name": "The Winner! (Sega Genesis Remix)" },
+	"backgroundmusic_default": { "File": "saveselect.ogg", "Type": "Music", "LoopStart": "100576", "Name": "Sunshine Cassette (Sega Genesis Remix)" },
+	"backgroundmusic_encore": {"File": "encoreselect.ogg", "Type": "Music", "LoopStart": "0", "Name": "Double Take (Mega Drive Mix)" },
+}

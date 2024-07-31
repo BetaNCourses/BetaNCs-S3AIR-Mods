@@ -1,0 +1,11 @@
+{
+	"01": {"File": "aiz1.ogg", "Type": "Music", "LoopStart": "88195", "Name": "Angel Island (Present)" },
+	"01_fast": {"File": "aiz1_fast.ogg", "Type": "Music", "LoopStart": "67443", "SoundTestVisibility": "hidden" },
+	"02": {"File": "aiz2.ogg", "Type": "Music", "LoopStart": "658493", "Name": "Angel Island (Bad Future)" },
+	"02_fast": {"File": "aiz2_fast.ogg", "Type": "Music", "LoopStart": "534379", "SoundTestVisibility": "hidden" },
+	"02_harmonymix": { "File": "aiz2good.ogg", "Type": "Music", "LoopStart": "431783", "Name": "Angel Island (Good Future)" },
+	"02_harmonymix_fast": { "File": "aiz2good_fast.ogg", "Type": "Music", "LoopStart": "345928", "SoundTestVisibility": "hidden" },
+	"02_keyswap": { "File": "aiz2past.ogg", "Type": "Music", "LoopStart": "266237", "Name": "Angel Island (Past)" },
+	"02_keyswap_fast": { "File": "aiz2past_fast.ogg", "Type": "Music", "LoopStart": "213003", "SoundTestVisibility": "hidden" },
+
+}

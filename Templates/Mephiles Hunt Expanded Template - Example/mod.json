@@ -1,0 +1,19 @@
+{
+	"Metadata":
+	{
+		"Name": "Mephiles' Hunt Expanded Template - Example",
+		"Author": "BetaNCourses",
+		"Description": "Hate it when your skin of Mephiles is too small? Look no futher than this template! Now supporting up to 64x64! uh what mod do you think is supported?",
+		"ModVersion": "1.0"
+	},
+	"OtherMods":
+	{
+		"Mephiles' Hunt":
+		{
+			"DisplayName": "Mephiles' Hunt",
+			"IsRequired": "1",
+			"Priority": "High"
+		}
+	}
+}
+

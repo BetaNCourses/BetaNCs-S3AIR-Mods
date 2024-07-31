@@ -1,0 +1,16 @@
+{
+	"mephiles_0":  { "File": "mephiles.png", "Rect": "2,18,64,64", "Center": "30,30" },
+	"mephiles_1":  { "File": "mephiles.png", "Rect": "68,18,64,64", "Center": "30,44" },
+	"mephiles_2":  { "File": "mephiles.png", "Rect": "134,18,64,64", "Center": "30,44" },
+	"mephiles_3":  { "File": "mephiles.png", "Rect": "200,18,64,64", "Center": "30,44" },
+	"mephiles_4":  { "File": "mephiles.png", "Rect": "266,18,64,64", "Center": "30,44" },
+	"mephiles_5":  { "File": "mephiles.png", "Rect": "332,18,64,64", "Center": "30,44" },
+	"mephiles_6":  { "File": "mephiles.png", "Rect": "398,18,64,64", "Center": "30,44" },
+	"mephiles_7":  { "File": "mephiles.png", "Rect": "2,84,64,64", "Center": "30,44" },
+	"mephiles_8":  { "File": "mephiles.png", "Rect": "68,84,64,64", "Center": "30,44" },
+	"mephiles_9":  { "File": "mephiles.png", "Rect": "134,84,64,64", "Center": "30,44" },
+	"mephiles_10":  { "File": "mephiles.png", "Rect": "2,165,64,64", "Center": "30,44" },
+	"mephiles_11":  { "File": "mephiles.png", "Rect": "68,165,64,64", "Center": "30,44" },
+	"mephiles_12_0":  { "File": "mephiles.png", "Rect": "134,165,64,64", "Center": "30,44" },
+	"mephiles_12_1":  { "File": "mephiles.png", "Rect": "200,165,64,64", "Center": "30,44" }
+}

@@ -1,0 +1,19 @@
+{
+	"Metadata":
+	{
+		"Name": "Mephiles' Hunt Expanded Template - Template",
+		"Author": "You",
+		"Description": "write something here",
+		"ModVersion": "1.0"
+	},
+	"OtherMods":
+	{
+		"Mephiles' Hunt":
+		{
+			"DisplayName": "Mephiles' Hunt",
+			"IsRequired": "1",
+			"Priority": "High"
+		}
+	}
+}
+

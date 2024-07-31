@@ -1,0 +1,19 @@
+{
+	"Metadata":
+	{
+		"Name": "BetaNC's Eggman over Mephiles",
+		"Author": "BetaNCourses",
+		"Description": "A simple skin of Dr. Robotink over Mephiles",
+		"ModVersion": "1.0"
+	},
+	"OtherMods":
+	{
+		"Mephiles' Hunt":
+		{
+			"DisplayName": "Mephiles' Hunt",
+			"IsRequired": "1",
+			"Priority": "High"
+		}
+	}
+}
+
