@@ -1,4 +1,6 @@
 {
+	"04": { "File": "HCZ2.ogg", "Type": "Music", "LoopStart": "817000", },
+	"04_fast": { "File": "HCZ2_F.ogg", "Type": "Music", "LoopStart": "653600", "SoundTestVisibility": "hidden" },
 	"08": { "File": "CNZ2.ogg", "Type": "Music", "LoopStart": "114765", "Name": "Carnival Night Zone (Act 2) (OST Version)" },
 	"08_fast": { "File": "CNZ2_F.ogg", "Type": "Music", "LoopStart": "91812", "SoundTestVisibility": "hidden" },
 	"09": { "Name": "[16-BitGenesis]Press Factory Act 1", "File": "FBZ1.ogg", "Type": "Music", "LoopStart": "66210" },
