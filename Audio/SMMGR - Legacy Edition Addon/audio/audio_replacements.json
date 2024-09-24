@@ -1,0 +1,5 @@
+{
+
+	"2F": { "File": "dataselect.ogg", "Type": "Music", "LoopStart": "89309", "Name": "Main Menu Theme (SEGA GENESIS REMIX" },
+	"backgroundmusic_encore": {"File": "encoreselect.ogg", "Type": "Music", "LoopStart": "58709", "Name": "Encore Save Select ~ Double Take (Sega Genesis Mix)" },
+}

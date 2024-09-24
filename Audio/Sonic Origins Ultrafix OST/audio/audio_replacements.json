@@ -1,0 +1,7 @@
+{
+	"2E_proto": {"File": "superproto.ogg", "Type": "Music", "LoopStart": "52645", "Name": "Soaring Super Powers (Hardware)" },
+	"0C_proto": {"File": "icz2proto.ogg", "Type": "Music", "LoopStart": "725474", "Name": "Chilled Winds (Hardware)" },
+	"0C_proto_fast": {"File": "icz2proto_fast.ogg", "Type": "Music", "LoopStart": "580379", "SoundTestVisibility": "Hidden" },
+	"2D_proto": { "File": "compproto.ogg", "Type": "Music", "LoopStart": "68039", "Name": "High Speed Hustle (Hardware)" },
+	"cm_result": { "File": "perfect.ogg", "Type": "Music", "LoopStart": "0", "Name": "Perfection! Now Go for Another! (Hardware)" },
+}

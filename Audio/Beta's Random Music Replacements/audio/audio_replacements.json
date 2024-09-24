@@ -1,0 +1,15 @@
+{
+	"08": { "File": "CNZ2.ogg", "Type": "Music", "LoopStart": "114765", "Name": "Carnival Night Zone (Act 2) (OST Version)" },
+	"08_fast": { "File": "CNZ2_F.ogg", "Type": "Music", "LoopStart": "91812", "SoundTestVisibility": "hidden" },
+	"09": { "Name": "[16-BitGenesis]Press Factory Act 1", "File": "FBZ1.ogg", "Type": "Music", "LoopStart": "66210" },
+	"09_fast": { "File": "FBZ1_F.ogg", "Type": "Music", "LoopStart": "52970", "SoundTestVisibility": "hidden" },
+	"0A": { "Name": "[16-BitGenesis]Press Factory Act 2", "File": "FBZ2.ogg", "Type": "Music", "LoopStart": "79070" },
+	"0A_fast": { "File": "FBZ2_F.ogg", "Type": "Music", "LoopStart": "63256", "SoundTestVisibility": "hidden" },
+	"10": { "File": "MHZ2.ogg", "Type": "Music", "LoopStart": "843507", "Name": "Mushroom Hill Zone (Act 2)" },
+	"10_fast": { "File": "MHZ2_F.ogg", "Type": "Music", "LoopStart": "675529", "SoundTestVisibility": "hidden" },
+	"16": { "File": "DEZ1.ogg", "Type": "Music", "LoopStart": "315392", "Name": "Atomic Destroyer Zone Act 1" },
+	"16_fast": { "File": "DEZ1_F.ogg", "Type": "Music", "LoopStart": "252314", "SoundTestVisibility": "hidden" },
+	"17": { "File": "DEZ2.ogg", "Type": "Music", "LoopStart": "903168", "Name": "Atomic Destroyer Act 2" },
+	"17_fast": { "File": "DEZ2_F.ogg", "Type": "Music", "LoopStart": "722534", "SoundTestVisibility": "hidden" },
+
+}
